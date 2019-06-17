@@ -1,0 +1,18 @@
+Acrobatics	      -Spreads your undertaking to remain on your feet in a precarious circumstance, for example, when you trying to adjust on a tightrope, or remain upright on a shaking boat's deck.
+Animal_Handling   -Check to control your mount when you endeavor a hazardous maneuveres and petitions, religious progressive systems, heavenly images, and the acts of mystery factions.
+Arcana            -Measures your capacity to review legend about spells, enchantment things, eldritch images, otherworldly customs, the planes of presence, and the tenants of those planes
+Athletics         -Troublesome circumstances you experience while climbing, hopping, or swimming and so forth.
+Deception         -Check to decide if you can convincingly obnubilate reality, either verbally or through your activities
+History           -Check measures your competency to review legend about chronicled occasions, amazing individuals, antiquated kingdoms, past debate, late wars, and lost developments.
+Insight           -Chooses whether you can decide the genuine expectations of an animal, for example, while testing out an equivocation or forecasting somebody's best course of action
+Intimidation      -Check to try to impact somebody through unmistakable dangers, hawkish activities, and physical brutality
+Investigation     -Check to test for pieces of information and make derivations predicated on those intimations
+Medicine         -Check gives you a chance to attempt to balance out a diminishing friend or analyze a sickness
+Nature           -Measures your competency to review legend about landscape, plants and creatures, the climate, and characteristic cycles.
+Perception       -Check gives you a chance to spot, hear, or generally distinguish the nearness of something. It quantifies your general familiarity with your environment and the perception of your faculties
+Performance	     -Check decides how well you would pleasure be able to a group of people with music, move, acting, narrating, or some other type of regalement.
+Persuasion       -When you attempt to impact somebody or a gathering of individuals with affability, gregarious graces, or benevolence,
+Religion         -Measures your office to review legend about gods, ceremonies and supplications, religious progressions, heavenly images, and the acts of mystery factions.
+Sleight_of_Hand  -At whatever point you attempt a demonstration of legerdemain or manual deception, for example, planting something on another person or hiding a protest on your individual
+Stealth          -Check when you attempt to disguise yourself from adversaries, lurk past sentinels, disappear without being descried, or sneak up on somebody without being outwardly seen or aurally seen.
+Survival         -Measures the competency to make due in the wild, translate tracks and signs, guess climate and distinguish characteristic dangers
